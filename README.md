@@ -25,10 +25,10 @@ A arquitetura utilizada foi a MVVM, dividida em duas partes principais:
 * DetailView: Tela com os detalhes da piada de determinada categoria
 
 Além das Views principais, existe uma auxiliar para o processo de cache de imagens.
-Todas as Views estão contidas na pasta **View**
-Todos os Models e ViewModels estão na pasta **Model**
+Todas as Views estão contidas na pasta **View**.
+Todos os Models e ViewModels estão na pasta **Model**.
 
-A pasta **Util** contém código auxiliar para o restante da aplicação:
+A pasta **Util** contém código auxiliar o restante da aplicação:
 
 * HTTPService: classe auxiliar para realização de requisições HTTP utilizando a biblioteca Alamofire.
 * CustomNavigationView: Extensão para modificar o estilo da barra de navegação.
